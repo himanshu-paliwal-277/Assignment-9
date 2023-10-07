@@ -1,0 +1,6 @@
+CSS Flex-box :
+         The Flexible Box one-dimensional layout system, which is help to easily design flexible responsive layout. The flex box works either a row layout and a column layout. In Flex we can not use both row and column layout at same time. The flex direction is by default row and it can be switch to column. 
+CSS Grid :
+         The CSS Grid is two-dimensional layout system, which is help to easily design flexible responsive layout. With the CSS Grid we can layout both the row and column at the same time.  
+
+        The basic difference in CSS flexbox layout and grid layout is that flexbox was designed for layout in one dimension either a row or a column. Grid was designed for two-dimensional layout both rows and columns at the same time.

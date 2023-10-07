@@ -1,0 +1,14 @@
+1. Justify-content: 
+                Justify-content is the CSS property used in a felx container. The Justify-content property is used to align items in the main-axis (Horizontal-direction, x-axis). The values of Justify-content may be felx-start, flex-end, space-between, space-around and etc. Which align items in the main axis of the Flex Box.
+
+2. align-items: 
+                align-items is the CSS property used in a felx container. The align-items property is used to align items in the cross-axis (Vertical-direction, y-axis). The values of align-items may be felx-start, flex-end, center and etc. Which is used to align items in the Cross axis of the Flex Box.
+
+3. gap: 
+                The gap property in CSS is a shorthand for row-gap and column-gap. The row-gap property specify the gap between each row in the flexbox. Similary the column-gap property specify the gap between each column in the flexbox. So by using the gap property we can set both the row-gap an column-gap.
+
+4. Flex-direction: 
+                The flex-direction is a CSS flexbox property specifies the direction of the flexbox items. The values of flex-direction property is row, column and etc. If the flex-direction row then items align row wise fasion. The Bydefault flex-direction is row. Similary If the flex-direction column then items align in column wise in flex-box. There are also a row-reverse and column-reverse flex-direction.
+
+5. Flex-wrap: 
+                The flex-wrap is a flexbox property specifies whether the flexbox items wrap or not. The value of of flex-wrap is wrap, no-wrap and wrap-reverse. If we don't use this property the Bydefault no-wrap, we can change into wrap so that if more than some amount of items come in the row they wrap.
